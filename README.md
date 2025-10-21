@@ -25,8 +25,6 @@ I’m all about building stuff that works (eventually 😅):
 *(Check out my pinned repos for more chaos management 😎)*
 
 ## 📊 GitHub Stats
-![Tjark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjarkpr&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tjarkpr&layout=compact&theme=radical)
 
 ## 📫 Channels & Connect
