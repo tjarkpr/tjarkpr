@@ -25,13 +25,13 @@ I’m all about building stuff that works (eventually 😅):
 *(Check out my pinned repos for more chaos management 😎)*
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tjarkpr&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tjarkpr&layout=compact&theme=swift)
 
 ## 📫 Channels & Connect
 Also have a look at:  
 [🌐 Webpage](https://tjarkprokoph.com) | [✍️ Blog](https://medium.com/@tjark.prokoph) | [🧩 StackOverflow](https://stackoverflow.com/users/22791124/tjark-prokoph) | [🛒 VS Marketplace](https://marketplace.visualstudio.com/publishers/tjarkprokoph)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tjarkpr)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tjark-prokoph)  
 ---
 
 > ⚡ *Engineering software with a sense of humor and a dash of chaos management!*  
