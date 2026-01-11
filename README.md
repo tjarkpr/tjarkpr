@@ -9,4 +9,4 @@
 
 ### Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/tjark-prokoph)
-- 🌐 [Website](https://tjarkprokoph.com)
+- 🌐 [Website](https://www.tjarkprokoph.com)
